@@ -1,5 +1,36 @@
 {
-  "updated_utc": "2026-05-25T23:43:21.669312+00:00",
+  "updated_utc": "2026-05-26T01:29:44.351226+00:00",
   "source": "finnhub",
-  "events": []
+  "events": [
+    {
+      "time": "2026-05-28T12:30:00+00:00",
+      "title": "Core PCE Price Index MoM",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-05-28T12:30:00+00:00",
+      "title": "Durable Goods Orders MoM",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-05-28T12:30:00+00:00",
+      "title": "GDP Growth Rate QoQ 2nd Est",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-05-28T12:30:00+00:00",
+      "title": "Personal Income MoM",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-05-28T12:30:00+00:00",
+      "title": "Personal Spending MoM",
+      "impact": "High",
+      "currency": "USD"
+    }
+  ]
 }
