@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-26T23:55:28.218145+00:00",
+  "updated_utc": "2026-05-27T02:11:55.003708+00:00",
   "source": "finnhub",
   "events": [
     {
@@ -31,6 +31,24 @@
       "title": "Personal Spending MoM",
       "impact": "High",
       "currency": "USD"
+    },
+    {
+      "time": "2026-05-29T06:45:00+00:00",
+      "title": "Inflation Rate YoY Prel",
+      "impact": "High",
+      "currency": "EUR"
+    },
+    {
+      "time": "2026-05-29T09:00:00+00:00",
+      "title": "Inflation Rate YoY Prel",
+      "impact": "High",
+      "currency": "EUR"
+    },
+    {
+      "time": "2026-05-29T12:00:00+00:00",
+      "title": "Inflation Rate YoY Prel",
+      "impact": "High",
+      "currency": "EUR"
     }
   ]
 }
