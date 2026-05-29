@@ -1,19 +1,7 @@
 {
-  "updated_utc": "2026-05-29T06:13:02.750141+00:00",
+  "updated_utc": "2026-05-29T10:14:20.351860+00:00",
   "source": "finnhub",
   "events": [
-    {
-      "time": "2026-05-29T06:45:00+00:00",
-      "title": "Inflation Rate YoY Prel",
-      "impact": "High",
-      "currency": "EUR"
-    },
-    {
-      "time": "2026-05-29T09:00:00+00:00",
-      "title": "Inflation Rate YoY Prel",
-      "impact": "High",
-      "currency": "EUR"
-    },
     {
       "time": "2026-05-29T12:00:00+00:00",
       "title": "Inflation Rate YoY Prel",
