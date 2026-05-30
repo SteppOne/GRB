@@ -1,5 +1,12 @@
 {
-  "updated_utc": "2026-05-29T22:47:20.141047+00:00",
+  "updated_utc": "2026-05-30T00:00:56.390109+00:00",
   "source": "finnhub",
-  "events": []
+  "events": [
+    {
+      "time": "2026-06-01T14:00:00+00:00",
+      "title": "ISM Manufacturing PMI",
+      "impact": "High",
+      "currency": "USD"
+    }
+  ]
 }
