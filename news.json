@@ -1,13 +1,7 @@
 {
-  "updated_utc": "2026-06-01T13:11:12.195028+00:00",
+  "updated_utc": "2026-06-01T18:49:30.584177+00:00",
   "source": "finnhub",
   "events": [
-    {
-      "time": "2026-06-01T14:00:00+00:00",
-      "title": "ISM Manufacturing PMI",
-      "impact": "High",
-      "currency": "USD"
-    },
     {
       "time": "2026-06-02T09:00:00+00:00",
       "title": "Inflation Rate YoY Flash",
