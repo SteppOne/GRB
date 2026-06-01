@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-31T23:54:31.316359+00:00",
+  "updated_utc": "2026-06-01T02:29:40.835067+00:00",
   "source": "finnhub",
   "events": [
     {
@@ -17,6 +17,12 @@
     {
       "time": "2026-06-02T14:00:00+00:00",
       "title": "JOLTs Job Openings",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-06-03T14:00:00+00:00",
+      "title": "ISM Services PMI",
       "impact": "High",
       "currency": "USD"
     }
