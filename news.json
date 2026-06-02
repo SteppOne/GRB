@@ -1,13 +1,7 @@
 {
-  "updated_utc": "2026-06-02T06:21:15.795217+00:00",
+  "updated_utc": "2026-06-02T11:00:27.266768+00:00",
   "source": "finnhub",
   "events": [
-    {
-      "time": "2026-06-02T09:00:00+00:00",
-      "title": "Inflation Rate YoY Flash",
-      "impact": "High",
-      "currency": "EUR"
-    },
     {
       "time": "2026-06-02T14:00:00+00:00",
       "title": "JOLTs Job Openings",
