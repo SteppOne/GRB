@@ -1,10 +1,22 @@
 {
-  "updated_utc": "2026-06-02T23:19:33.010981+00:00",
+  "updated_utc": "2026-06-03T02:03:55.355402+00:00",
   "source": "finnhub",
   "events": [
     {
       "time": "2026-06-03T14:00:00+00:00",
       "title": "ISM Services PMI",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-06-05T12:30:00+00:00",
+      "title": "Non Farm Payrolls",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-06-05T12:30:00+00:00",
+      "title": "Unemployment Rate",
       "impact": "High",
       "currency": "USD"
     }
