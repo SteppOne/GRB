@@ -1,18 +1,5 @@
 {
-  "updated_utc": "2026-06-05T11:46:31.405683+00:00",
+  "updated_utc": "2026-06-05T14:19:40.541506+00:00",
   "source": "finnhub",
-  "events": [
-    {
-      "time": "2026-06-05T12:30:00+00:00",
-      "title": "Non Farm Payrolls",
-      "impact": "High",
-      "currency": "USD"
-    },
-    {
-      "time": "2026-06-05T12:30:00+00:00",
-      "title": "Unemployment Rate",
-      "impact": "High",
-      "currency": "USD"
-    }
-  ]
+  "events": []
 }
