@@ -1,13 +1,7 @@
 {
-  "updated_utc": "2026-06-09T02:12:15.120622+00:00",
+  "updated_utc": "2026-06-09T06:18:30.665438+00:00",
   "source": "finnhub",
   "events": [
-    {
-      "time": "2026-06-09T06:00:00+00:00",
-      "title": "Balance of Trade",
-      "impact": "High",
-      "currency": "EUR"
-    },
     {
       "time": "2026-06-09T14:00:00+00:00",
       "title": "Existing Home Sales",
