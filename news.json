@@ -1,13 +1,7 @@
 {
-  "updated_utc": "2026-06-09T12:50:09.046959+00:00",
+  "updated_utc": "2026-06-09T15:49:04.150328+00:00",
   "source": "finnhub",
   "events": [
-    {
-      "time": "2026-06-09T14:00:00+00:00",
-      "title": "Existing Home Sales",
-      "impact": "High",
-      "currency": "USD"
-    },
     {
       "time": "2026-06-10T12:30:00+00:00",
       "title": "Core Inflation Rate MoM",
