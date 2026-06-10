@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-09T22:56:22.713444+00:00",
+  "updated_utc": "2026-06-10T00:05:34.324839+00:00",
   "source": "finnhub",
   "events": [
     {
@@ -49,6 +49,12 @@
       "title": "ECB Press Conference",
       "impact": "High",
       "currency": "EUR"
+    },
+    {
+      "time": "2026-06-12T14:00:00+00:00",
+      "title": "Michigan Consumer Sentiment Prel",
+      "impact": "High",
+      "currency": "USD"
     }
   ]
 }
