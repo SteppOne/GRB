@@ -1,0 +1,51 @@
+name: AleBot News Feed
+
+# Aggiorna news.json ogni 15 minuti. Minuti "fuori punta" (6,21,36,51): gli
+# slot :00/:15/:30/:45 sono congestionati e GitHub li ritarda/salta molto piu'
+# spesso (visto il 10-11/6/2026: run reali ogni 2-4 ore). Gli orari possono
+# comunque slittare di qualche minuto: normale e ininfluente.
+on:
+  schedule:
+    - cron: "6,21,36,51 * * * *"
+  workflow_dispatch: {}   # permette l'avvio manuale dal tab "Actions"
+
+# Evita esecuzioni sovrapposte.
+concurrency:
+  group: news-feed
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # serve per committare news.json
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Installa dipendenze
+        run: pip install requests
+
+      - name: Scarica calendario news
+        env:
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+        run: python news_fetcher.py
+
+      - name: Commit news.json se cambiato
+        run: |
+          git config user.name "alebot-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add news.json
+          if git diff --staged --quiet; then
+            echo "Nessuna variazione: niente commit."
+          else
+            git commit -m "news: aggiornamento $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
