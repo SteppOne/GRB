@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-15T23:19:17.525772+00:00",
+  "updated_utc": "2026-06-16T02:02:01.130704+00:00",
   "source": "forexfactory",
   "events": [
     {
@@ -31,6 +31,30 @@
       "title": "FOMC Press Conference",
       "impact": "High",
       "currency": "USD"
+    },
+    {
+      "time": "2026-06-18T06:00:00+00:00",
+      "title": "Claimant Count Change",
+      "impact": "High",
+      "currency": "GBP"
+    },
+    {
+      "time": "2026-06-18T11:00:00+00:00",
+      "title": "Monetary Policy Summary",
+      "impact": "High",
+      "currency": "GBP"
+    },
+    {
+      "time": "2026-06-18T11:00:00+00:00",
+      "title": "MPC Official Bank Rate Votes",
+      "impact": "High",
+      "currency": "GBP"
+    },
+    {
+      "time": "2026-06-18T11:00:00+00:00",
+      "title": "Official Bank Rate",
+      "impact": "High",
+      "currency": "GBP"
     }
   ]
 }
