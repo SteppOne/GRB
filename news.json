@@ -1,31 +1,7 @@
 {
-  "updated_utc": "2026-06-17T16:48:39.157927+00:00",
+  "updated_utc": "2026-06-17T19:14:18.355714+00:00",
   "source": "forexfactory",
   "events": [
-    {
-      "time": "2026-06-17T18:00:00+00:00",
-      "title": "Federal Funds Rate",
-      "impact": "High",
-      "currency": "USD"
-    },
-    {
-      "time": "2026-06-17T18:00:00+00:00",
-      "title": "FOMC Economic Projections",
-      "impact": "High",
-      "currency": "USD"
-    },
-    {
-      "time": "2026-06-17T18:00:00+00:00",
-      "title": "FOMC Statement",
-      "impact": "High",
-      "currency": "USD"
-    },
-    {
-      "time": "2026-06-17T18:30:00+00:00",
-      "title": "FOMC Press Conference",
-      "impact": "High",
-      "currency": "USD"
-    },
     {
       "time": "2026-06-18T06:00:00+00:00",
       "title": "Claimant Count Change",
