@@ -1,13 +1,7 @@
 {
-  "updated_utc": "2026-06-18T05:20:11.277429+00:00",
+  "updated_utc": "2026-06-18T09:49:15.387525+00:00",
   "source": "forexfactory",
   "events": [
-    {
-      "time": "2026-06-18T06:00:00+00:00",
-      "title": "Claimant Count Change",
-      "impact": "High",
-      "currency": "GBP"
-    },
     {
       "time": "2026-06-18T11:00:00+00:00",
       "title": "Monetary Policy Summary",
