@@ -1,25 +1,7 @@
 {
-  "updated_utc": "2026-06-24T00:12:33.180093+00:00",
+  "updated_utc": "2026-06-24T04:38:30.989714+00:00",
   "source": "forexfactory",
   "events": [
-    {
-      "time": "2026-06-24T01:30:00+00:00",
-      "title": "CPI m/m",
-      "impact": "High",
-      "currency": "AUD"
-    },
-    {
-      "time": "2026-06-24T01:30:00+00:00",
-      "title": "CPI y/y",
-      "impact": "High",
-      "currency": "AUD"
-    },
-    {
-      "time": "2026-06-24T01:30:00+00:00",
-      "title": "Trimmed Mean CPI m/m",
-      "impact": "High",
-      "currency": "AUD"
-    },
     {
       "time": "2026-06-25T01:30:00+00:00",
       "title": "Employment Change",
