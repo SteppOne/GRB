@@ -1,18 +1,5 @@
 {
-  "updated_utc": "2026-06-25T11:09:13.448371+00:00",
+  "updated_utc": "2026-06-25T13:27:22.782033+00:00",
   "source": "forexfactory",
-  "events": [
-    {
-      "time": "2026-06-25T12:30:00+00:00",
-      "title": "Core PCE Price Index m/m",
-      "impact": "High",
-      "currency": "USD"
-    },
-    {
-      "time": "2026-06-25T12:30:00+00:00",
-      "title": "Final GDP q/q",
-      "impact": "High",
-      "currency": "USD"
-    }
-  ]
+  "events": []
 }
