@@ -1,19 +1,7 @@
 {
-  "updated_utc": "2026-06-25T00:18:17.420369+00:00",
+  "updated_utc": "2026-06-25T04:36:50.797722+00:00",
   "source": "forexfactory",
   "events": [
-    {
-      "time": "2026-06-25T01:30:00+00:00",
-      "title": "Employment Change",
-      "impact": "High",
-      "currency": "AUD"
-    },
-    {
-      "time": "2026-06-25T01:30:00+00:00",
-      "title": "Unemployment Rate",
-      "impact": "High",
-      "currency": "AUD"
-    },
     {
       "time": "2026-06-25T12:30:00+00:00",
       "title": "Core PCE Price Index m/m",
