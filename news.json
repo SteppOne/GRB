@@ -1,5 +1,24 @@
 {
-  "updated_utc": "2026-06-28T23:31:19.802028+00:00",
+  "updated_utc": "2026-06-29T01:37:47.403720+00:00",
   "source": "forexfactory",
-  "events": []
+  "events": [
+    {
+      "time": "2026-07-01T13:00:00+00:00",
+      "title": "BOE Gov Bailey Speaks",
+      "impact": "High",
+      "currency": "GBP"
+    },
+    {
+      "time": "2026-07-01T13:00:00+00:00",
+      "title": "Fed Chairman Warsh Speaks",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-07-01T14:00:00+00:00",
+      "title": "ISM Manufacturing PMI",
+      "impact": "High",
+      "currency": "USD"
+    }
+  ]
 }
