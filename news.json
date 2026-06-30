@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-29T23:36:23.451175+00:00",
+  "updated_utc": "2026-06-30T01:50:56.714648+00:00",
   "source": "forexfactory",
   "events": [
     {
@@ -17,6 +17,24 @@
     {
       "time": "2026-07-01T14:00:00+00:00",
       "title": "ISM Manufacturing PMI",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-07-02T12:30:00+00:00",
+      "title": "Average Hourly Earnings m/m",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-07-02T12:30:00+00:00",
+      "title": "Non-Farm Employment Change",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-07-02T12:30:00+00:00",
+      "title": "Unemployment Rate",
       "impact": "High",
       "currency": "USD"
     }
