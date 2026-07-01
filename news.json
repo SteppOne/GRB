@@ -1,13 +1,7 @@
 {
-  "updated_utc": "2026-07-01T13:19:44.938861+00:00",
+  "updated_utc": "2026-07-01T16:02:13.904860+00:00",
   "source": "forexfactory",
   "events": [
-    {
-      "time": "2026-07-01T14:00:00+00:00",
-      "title": "ISM Manufacturing PMI",
-      "impact": "High",
-      "currency": "USD"
-    },
     {
       "time": "2026-07-02T12:30:00+00:00",
       "title": "Average Hourly Earnings m/m",
