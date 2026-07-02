@@ -1,24 +1,5 @@
 {
-  "updated_utc": "2026-07-02T10:47:14.006547+00:00",
+  "updated_utc": "2026-07-02T12:32:38.553521+00:00",
   "source": "forexfactory",
-  "events": [
-    {
-      "time": "2026-07-02T12:30:00+00:00",
-      "title": "Average Hourly Earnings m/m",
-      "impact": "High",
-      "currency": "USD"
-    },
-    {
-      "time": "2026-07-02T12:30:00+00:00",
-      "title": "Non-Farm Employment Change",
-      "impact": "High",
-      "currency": "USD"
-    },
-    {
-      "time": "2026-07-02T12:30:00+00:00",
-      "title": "Unemployment Rate",
-      "impact": "High",
-      "currency": "USD"
-    }
-  ]
+  "events": []
 }
