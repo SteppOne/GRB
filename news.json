@@ -1,13 +1,7 @@
 {
-  "updated_utc": "2026-07-06T13:31:40.135038+00:00",
+  "updated_utc": "2026-07-06T16:40:04.683599+00:00",
   "source": "forexfactory",
   "events": [
-    {
-      "time": "2026-07-06T14:00:00+00:00",
-      "title": "ISM Services PMI",
-      "impact": "High",
-      "currency": "USD"
-    },
     {
       "time": "2026-07-08T18:00:00+00:00",
       "title": "FOMC Meeting Minutes",
