@@ -1,12 +1,5 @@
 {
-  "updated_utc": "2026-07-08T16:21:52.709187+00:00",
+  "updated_utc": "2026-07-08T18:01:49.976787+00:00",
   "source": "forexfactory",
-  "events": [
-    {
-      "time": "2026-07-08T18:00:00+00:00",
-      "title": "FOMC Meeting Minutes",
-      "impact": "High",
-      "currency": "USD"
-    }
-  ]
+  "events": []
 }
