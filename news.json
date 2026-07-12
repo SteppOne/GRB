@@ -1,5 +1,48 @@
 {
-  "updated_utc": "2026-07-12T04:32:54.225288+00:00",
+  "updated_utc": "2026-07-12T07:08:56.675278+00:00",
   "source": "forexfactory",
-  "events": []
+  "events": [
+    {
+      "time": "2026-07-14T08:45:00+00:00",
+      "title": "BOE Gov Bailey Speaks",
+      "impact": "High",
+      "currency": "GBP"
+    },
+    {
+      "time": "2026-07-14T12:30:00+00:00",
+      "title": "Core CPI m/m",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-07-14T12:30:00+00:00",
+      "title": "Core CPI y/y",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-07-14T12:30:00+00:00",
+      "title": "CPI m/m",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-07-14T12:30:00+00:00",
+      "title": "CPI y/y",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-07-14T14:00:00+00:00",
+      "title": "Fed Chairman Warsh Testifies",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-07-14T20:00:00+00:00",
+      "title": "BOE Gov Bailey Speaks",
+      "impact": "High",
+      "currency": "GBP"
+    }
+  ]
 }
