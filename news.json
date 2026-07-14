@@ -1,13 +1,7 @@
 {
-  "updated_utc": "2026-07-14T12:40:55.373966+00:00",
+  "updated_utc": "2026-07-14T14:29:06.406559+00:00",
   "source": "forexfactory",
   "events": [
-    {
-      "time": "2026-07-14T14:00:00+00:00",
-      "title": "Fed Chairman Warsh Testifies",
-      "impact": "High",
-      "currency": "USD"
-    },
     {
       "time": "2026-07-14T20:00:00+00:00",
       "title": "BOE Gov Bailey Speaks",
