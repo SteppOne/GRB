@@ -1,31 +1,7 @@
 {
-  "updated_utc": "2026-07-14T11:09:00.668270+00:00",
+  "updated_utc": "2026-07-14T12:40:55.373966+00:00",
   "source": "forexfactory",
   "events": [
-    {
-      "time": "2026-07-14T12:30:00+00:00",
-      "title": "Core CPI m/m",
-      "impact": "High",
-      "currency": "USD"
-    },
-    {
-      "time": "2026-07-14T12:30:00+00:00",
-      "title": "Core CPI y/y",
-      "impact": "High",
-      "currency": "USD"
-    },
-    {
-      "time": "2026-07-14T12:30:00+00:00",
-      "title": "CPI m/m",
-      "impact": "High",
-      "currency": "USD"
-    },
-    {
-      "time": "2026-07-14T12:30:00+00:00",
-      "title": "CPI y/y",
-      "impact": "High",
-      "currency": "USD"
-    },
     {
       "time": "2026-07-14T14:00:00+00:00",
       "title": "Fed Chairman Warsh Testifies",
