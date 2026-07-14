@@ -1,13 +1,7 @@
 {
-  "updated_utc": "2026-07-14T19:52:29.469613+00:00",
+  "updated_utc": "2026-07-14T21:05:28.345979+00:00",
   "source": "forexfactory",
   "events": [
-    {
-      "time": "2026-07-14T20:00:00+00:00",
-      "title": "BOE Gov Bailey Speaks",
-      "impact": "High",
-      "currency": "GBP"
-    },
     {
       "time": "2026-07-15T12:30:00+00:00",
       "title": "Core PPI m/m",
