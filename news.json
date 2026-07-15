@@ -1,13 +1,7 @@
 {
-  "updated_utc": "2026-07-15T14:00:42.940396+00:00",
+  "updated_utc": "2026-07-15T15:38:50.845696+00:00",
   "source": "forexfactory",
   "events": [
-    {
-      "time": "2026-07-15T14:00:00+00:00",
-      "title": "Fed Chairman Warsh Testifies",
-      "impact": "High",
-      "currency": "USD"
-    },
     {
       "time": "2026-07-16T06:00:00+00:00",
       "title": "GDP m/m",
