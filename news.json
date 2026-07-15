@@ -1,19 +1,7 @@
 {
-  "updated_utc": "2026-07-15T12:01:45.554067+00:00",
+  "updated_utc": "2026-07-15T14:00:42.940396+00:00",
   "source": "forexfactory",
   "events": [
-    {
-      "time": "2026-07-15T12:30:00+00:00",
-      "title": "Core PPI m/m",
-      "impact": "High",
-      "currency": "USD"
-    },
-    {
-      "time": "2026-07-15T12:30:00+00:00",
-      "title": "PPI m/m",
-      "impact": "High",
-      "currency": "USD"
-    },
     {
       "time": "2026-07-15T14:00:00+00:00",
       "title": "Fed Chairman Warsh Testifies",
