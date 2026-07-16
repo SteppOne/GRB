@@ -1,12 +1,5 @@
 {
-  "updated_utc": "2026-07-16T04:26:57.518871+00:00",
+  "updated_utc": "2026-07-16T07:02:06.914414+00:00",
   "source": "forexfactory",
-  "events": [
-    {
-      "time": "2026-07-16T06:00:00+00:00",
-      "title": "GDP m/m",
-      "impact": "High",
-      "currency": "GBP"
-    }
-  ]
+  "events": []
 }
