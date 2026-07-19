@@ -1,5 +1,12 @@
 {
-  "updated_utc": "2026-07-19T04:28:22.147721+00:00",
+  "updated_utc": "2026-07-19T07:06:57.366906+00:00",
   "source": "forexfactory",
-  "events": []
+  "events": [
+    {
+      "time": "2026-07-21T06:00:00+00:00",
+      "title": "Claimant Count Change",
+      "impact": "High",
+      "currency": "GBP"
+    }
+  ]
 }
