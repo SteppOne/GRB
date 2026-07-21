@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-20T23:41:25.895429+00:00",
+  "updated_utc": "2026-07-21T01:10:52.961210+00:00",
   "source": "forexfactory",
   "events": [
     {
@@ -13,6 +13,36 @@
       "title": "CPI y/y",
       "impact": "High",
       "currency": "GBP"
+    },
+    {
+      "time": "2026-07-23T01:30:00+00:00",
+      "title": "Employment Change",
+      "impact": "High",
+      "currency": "AUD"
+    },
+    {
+      "time": "2026-07-23T01:30:00+00:00",
+      "title": "Unemployment Rate",
+      "impact": "High",
+      "currency": "AUD"
+    },
+    {
+      "time": "2026-07-23T12:15:00+00:00",
+      "title": "Main Refinancing Rate",
+      "impact": "High",
+      "currency": "EUR"
+    },
+    {
+      "time": "2026-07-23T12:15:00+00:00",
+      "title": "Monetary Policy Statement",
+      "impact": "High",
+      "currency": "EUR"
+    },
+    {
+      "time": "2026-07-23T12:45:00+00:00",
+      "title": "ECB Press Conference",
+      "impact": "High",
+      "currency": "EUR"
     }
   ]
 }
