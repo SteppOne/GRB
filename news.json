@@ -1,13 +1,7 @@
 {
-  "updated_utc": "2026-07-22T04:35:04.142524+00:00",
+  "updated_utc": "2026-07-22T07:16:03.235444+00:00",
   "source": "forexfactory",
   "events": [
-    {
-      "time": "2026-07-22T06:00:00+00:00",
-      "title": "CPI y/y",
-      "impact": "High",
-      "currency": "GBP"
-    },
     {
       "time": "2026-07-23T01:30:00+00:00",
       "title": "Employment Change",
