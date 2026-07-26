@@ -1,5 +1,12 @@
 {
-  "updated_utc": "2026-07-26T01:08:54.709008+00:00",
+  "updated_utc": "2026-07-26T04:43:42.026761+00:00",
   "source": "forexfactory",
-  "events": []
+  "events": [
+    {
+      "time": "2026-07-28T03:05:00+00:00",
+      "title": "RBA Gov Bullock Speaks",
+      "impact": "High",
+      "currency": "AUD"
+    }
+  ]
 }
