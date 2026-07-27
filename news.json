@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-26T23:31:06.352490+00:00",
+  "updated_utc": "2026-07-27T01:10:16.622040+00:00",
   "source": "forexfactory",
   "events": [
     {
@@ -7,6 +7,42 @@
       "title": "RBA Gov Bullock Speaks",
       "impact": "High",
       "currency": "AUD"
+    },
+    {
+      "time": "2026-07-29T01:30:00+00:00",
+      "title": "CPI m/m",
+      "impact": "High",
+      "currency": "AUD"
+    },
+    {
+      "time": "2026-07-29T01:30:00+00:00",
+      "title": "CPI y/y",
+      "impact": "High",
+      "currency": "AUD"
+    },
+    {
+      "time": "2026-07-29T01:30:00+00:00",
+      "title": "Trimmed Mean CPI m/m",
+      "impact": "High",
+      "currency": "AUD"
+    },
+    {
+      "time": "2026-07-29T18:00:00+00:00",
+      "title": "Federal Funds Rate",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-07-29T18:00:00+00:00",
+      "title": "FOMC Statement",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-07-29T18:30:00+00:00",
+      "title": "FOMC Press Conference",
+      "impact": "High",
+      "currency": "USD"
     }
   ]
 }
