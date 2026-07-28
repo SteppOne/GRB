@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-27T23:35:51.183937+00:00",
+  "updated_utc": "2026-07-28T00:59:57.240499+00:00",
   "source": "forexfactory",
   "events": [
     {
@@ -41,6 +41,48 @@
     {
       "time": "2026-07-29T18:30:00+00:00",
       "title": "FOMC Press Conference",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-07-30T11:00:00+00:00",
+      "title": "BOE Monetary Policy Report",
+      "impact": "High",
+      "currency": "GBP"
+    },
+    {
+      "time": "2026-07-30T11:00:00+00:00",
+      "title": "Monetary Policy Summary",
+      "impact": "High",
+      "currency": "GBP"
+    },
+    {
+      "time": "2026-07-30T11:00:00+00:00",
+      "title": "MPC Official Bank Rate Votes",
+      "impact": "High",
+      "currency": "GBP"
+    },
+    {
+      "time": "2026-07-30T11:00:00+00:00",
+      "title": "Official Bank Rate",
+      "impact": "High",
+      "currency": "GBP"
+    },
+    {
+      "time": "2026-07-30T11:30:00+00:00",
+      "title": "BOE Gov Bailey Speaks",
+      "impact": "High",
+      "currency": "GBP"
+    },
+    {
+      "time": "2026-07-30T12:30:00+00:00",
+      "title": "Advance GDP q/q",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-07-30T12:30:00+00:00",
+      "title": "Core PCE Price Index m/m",
       "impact": "High",
       "currency": "USD"
     }
