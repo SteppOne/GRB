@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-09T23:36:49.580837+00:00",
+  "updated_utc": "2026-08-10T00:36:23.071352+00:00",
   "source": "forexfactory",
   "events": [
     {
@@ -25,6 +25,30 @@
       "title": "RBA Press Conference",
       "impact": "High",
       "currency": "AUD"
+    },
+    {
+      "time": "2026-08-12T12:30:00+00:00",
+      "title": "Core CPI m/m",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-08-12T12:30:00+00:00",
+      "title": "Core CPI y/y",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-08-12T12:30:00+00:00",
+      "title": "CPI m/m",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-08-12T12:30:00+00:00",
+      "title": "CPI y/y",
+      "impact": "High",
+      "currency": "USD"
     }
   ]
 }
