@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-16T23:58:09.910598+00:00",
+  "updated_utc": "2026-08-17T01:42:09.374191+00:00",
   "source": "forexfactory",
   "events": [
     {
@@ -7,6 +7,18 @@
       "title": "Claimant Count Change",
       "impact": "High",
       "currency": "GBP"
+    },
+    {
+      "time": "2026-08-19T06:00:00+00:00",
+      "title": "CPI y/y",
+      "impact": "High",
+      "currency": "GBP"
+    },
+    {
+      "time": "2026-08-19T18:00:00+00:00",
+      "title": "FOMC Meeting Minutes",
+      "impact": "High",
+      "currency": "USD"
     }
   ]
 }
