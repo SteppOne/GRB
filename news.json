@@ -1,13 +1,7 @@
 {
-  "updated_utc": "2026-08-18T05:57:35.563817+00:00",
+  "updated_utc": "2026-08-18T06:53:25.698444+00:00",
   "source": "forexfactory",
   "events": [
-    {
-      "time": "2026-08-18T06:00:00+00:00",
-      "title": "Claimant Count Change",
-      "impact": "High",
-      "currency": "GBP"
-    },
     {
       "time": "2026-08-19T06:00:00+00:00",
       "title": "CPI y/y",
