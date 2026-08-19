@@ -1,13 +1,7 @@
 {
-  "updated_utc": "2026-08-19T17:53:43.914240+00:00",
+  "updated_utc": "2026-08-19T18:42:42.804602+00:00",
   "source": "forexfactory",
   "events": [
-    {
-      "time": "2026-08-19T18:00:00+00:00",
-      "title": "FOMC Meeting Minutes",
-      "impact": "High",
-      "currency": "USD"
-    },
     {
       "time": "2026-08-20T01:30:00+00:00",
       "title": "Employment Change",
