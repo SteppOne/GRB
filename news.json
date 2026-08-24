@@ -1,5 +1,36 @@
 {
-  "updated_utc": "2026-08-23T23:59:51.596377+00:00",
+  "updated_utc": "2026-08-24T01:43:46.571535+00:00",
   "source": "forexfactory",
-  "events": []
+  "events": [
+    {
+      "time": "2026-08-26T01:30:00+00:00",
+      "title": "CPI m/m",
+      "impact": "High",
+      "currency": "AUD"
+    },
+    {
+      "time": "2026-08-26T01:30:00+00:00",
+      "title": "CPI y/y",
+      "impact": "High",
+      "currency": "AUD"
+    },
+    {
+      "time": "2026-08-26T01:30:00+00:00",
+      "title": "Trimmed Mean CPI m/m",
+      "impact": "High",
+      "currency": "AUD"
+    },
+    {
+      "time": "2026-08-26T12:30:00+00:00",
+      "title": "Core PCE Price Index m/m",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-08-26T12:30:00+00:00",
+      "title": "Prelim GDP q/q",
+      "impact": "High",
+      "currency": "USD"
+    }
+  ]
 }
