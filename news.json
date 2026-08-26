@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-25T23:50:00.437078+00:00",
+  "updated_utc": "2026-08-26T00:24:42.264879+00:00",
   "source": "forexfactory",
   "events": [
     {
@@ -29,6 +29,18 @@
     {
       "time": "2026-08-26T12:30:00+00:00",
       "title": "Prelim GDP q/q",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-08-28T14:00:00+00:00",
+      "title": "Fed Chairman Warsh Speaks",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-08-28T14:00:00+00:00",
+      "title": "Prelim Benchmark Payrolls Revision",
       "impact": "High",
       "currency": "USD"
     }
