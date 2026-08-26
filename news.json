@@ -1,19 +1,7 @@
 {
-  "updated_utc": "2026-08-26T11:59:04.572851+00:00",
+  "updated_utc": "2026-08-26T13:03:25.644335+00:00",
   "source": "forexfactory",
   "events": [
-    {
-      "time": "2026-08-26T12:30:00+00:00",
-      "title": "Core PCE Price Index m/m",
-      "impact": "High",
-      "currency": "USD"
-    },
-    {
-      "time": "2026-08-26T12:30:00+00:00",
-      "title": "Prelim GDP q/q",
-      "impact": "High",
-      "currency": "USD"
-    },
     {
       "time": "2026-08-28T14:00:00+00:00",
       "title": "Fed Chairman Warsh Speaks",
