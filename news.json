@@ -1,5 +1,12 @@
 {
-  "updated_utc": "2026-08-30T00:37:02.724992+00:00",
+  "updated_utc": "2026-08-30T05:53:04.887527+00:00",
   "source": "forexfactory",
-  "events": []
+  "events": [
+    {
+      "time": "2026-09-01T14:00:00+00:00",
+      "title": "ISM Manufacturing PMI",
+      "impact": "High",
+      "currency": "USD"
+    }
+  ]
 }
