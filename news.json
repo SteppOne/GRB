@@ -1,12 +1,30 @@
 {
-  "updated_utc": "2026-09-01T23:55:04.406153+00:00",
+  "updated_utc": "2026-09-02T04:00:14.582446+00:00",
   "source": "forexfactory",
   "events": [
     {
-      "time": "2026-09-02T01:30:00+00:00",
-      "title": "GDP q/q",
+      "time": "2026-09-04T08:50:00+00:00",
+      "title": "BOE Gov Bailey Speaks",
       "impact": "High",
-      "currency": "AUD"
+      "currency": "GBP"
+    },
+    {
+      "time": "2026-09-04T12:30:00+00:00",
+      "title": "Average Hourly Earnings m/m",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-09-04T12:30:00+00:00",
+      "title": "Non-Farm Employment Change",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-09-04T12:30:00+00:00",
+      "title": "Unemployment Rate",
+      "impact": "High",
+      "currency": "USD"
     }
   ]
 }
