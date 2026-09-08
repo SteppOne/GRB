@@ -1,5 +1,36 @@
 {
-  "updated_utc": "2026-09-07T22:02:27.527257+00:00",
+  "updated_utc": "2026-09-08T00:09:55.893073+00:00",
   "source": "forexfactory",
-  "events": []
+  "events": [
+    {
+      "time": "2026-09-10T12:15:00+00:00",
+      "title": "Main Refinancing Rate",
+      "impact": "High",
+      "currency": "EUR"
+    },
+    {
+      "time": "2026-09-10T12:15:00+00:00",
+      "title": "Monetary Policy Statement",
+      "impact": "High",
+      "currency": "EUR"
+    },
+    {
+      "time": "2026-09-10T12:30:00+00:00",
+      "title": "Core PPI m/m",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-09-10T12:30:00+00:00",
+      "title": "PPI m/m",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-09-10T12:45:00+00:00",
+      "title": "ECB Press Conference",
+      "impact": "High",
+      "currency": "EUR"
+    }
+  ]
 }
