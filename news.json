@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-08T22:42:23.208049+00:00",
+  "updated_utc": "2026-09-09T00:40:20.045925+00:00",
   "source": "forexfactory",
   "events": [
     {
@@ -31,6 +31,36 @@
       "title": "ECB Press Conference",
       "impact": "High",
       "currency": "EUR"
+    },
+    {
+      "time": "2026-09-11T06:00:00+00:00",
+      "title": "GDP m/m",
+      "impact": "High",
+      "currency": "GBP"
+    },
+    {
+      "time": "2026-09-11T12:30:00+00:00",
+      "title": "Core CPI m/m",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-09-11T12:30:00+00:00",
+      "title": "Core CPI y/y",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-09-11T12:30:00+00:00",
+      "title": "CPI m/m",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-09-11T12:30:00+00:00",
+      "title": "CPI y/y",
+      "impact": "High",
+      "currency": "USD"
     }
   ]
 }
