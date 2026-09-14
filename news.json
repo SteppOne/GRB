@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-13T23:11:31.055749+00:00",
+  "updated_utc": "2026-09-14T01:08:41.843671+00:00",
   "source": "forexfactory",
   "events": [
     {
@@ -7,6 +7,36 @@
       "title": "Claimant Count Change",
       "impact": "High",
       "currency": "GBP"
+    },
+    {
+      "time": "2026-09-16T06:00:00+00:00",
+      "title": "CPI y/y",
+      "impact": "High",
+      "currency": "GBP"
+    },
+    {
+      "time": "2026-09-16T18:00:00+00:00",
+      "title": "Federal Funds Rate",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-09-16T18:00:00+00:00",
+      "title": "FOMC Economic Projections",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-09-16T18:00:00+00:00",
+      "title": "FOMC Statement",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-09-16T18:30:00+00:00",
+      "title": "FOMC Press Conference",
+      "impact": "High",
+      "currency": "USD"
     }
   ]
 }
