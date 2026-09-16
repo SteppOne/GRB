@@ -1,25 +1,7 @@
 {
-  "updated_utc": "2026-09-16T14:22:18.478515+00:00",
+  "updated_utc": "2026-09-16T18:21:11.771887+00:00",
   "source": "forexfactory",
   "events": [
-    {
-      "time": "2026-09-16T18:00:00+00:00",
-      "title": "Federal Funds Rate",
-      "impact": "High",
-      "currency": "USD"
-    },
-    {
-      "time": "2026-09-16T18:00:00+00:00",
-      "title": "FOMC Economic Projections",
-      "impact": "High",
-      "currency": "USD"
-    },
-    {
-      "time": "2026-09-16T18:00:00+00:00",
-      "title": "FOMC Statement",
-      "impact": "High",
-      "currency": "USD"
-    },
     {
       "time": "2026-09-16T18:30:00+00:00",
       "title": "FOMC Press Conference",
