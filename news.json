@@ -1,13 +1,7 @@
 {
-  "updated_utc": "2026-09-16T18:21:11.771887+00:00",
+  "updated_utc": "2026-09-16T21:35:47.581974+00:00",
   "source": "forexfactory",
   "events": [
-    {
-      "time": "2026-09-16T18:30:00+00:00",
-      "title": "FOMC Press Conference",
-      "impact": "High",
-      "currency": "USD"
-    },
     {
       "time": "2026-09-17T11:00:00+00:00",
       "title": "Monetary Policy Summary",
