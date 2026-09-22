@@ -1,13 +1,7 @@
 {
-  "updated_utc": "2026-09-22T00:52:25.188946+00:00",
+  "updated_utc": "2026-09-22T05:58:21.692675+00:00",
   "source": "forexfactory",
   "events": [
-    {
-      "time": "2026-09-22T03:10:00+00:00",
-      "title": "RBA Gov Bullock Speaks",
-      "impact": "High",
-      "currency": "AUD"
-    },
     {
       "time": "2026-09-24T01:30:00+00:00",
       "title": "Employment Change",
