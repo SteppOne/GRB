@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-22T21:58:26.728101+00:00",
+  "updated_utc": "2026-09-23T00:13:15.203321+00:00",
   "source": "forexfactory",
   "events": [
     {
@@ -13,6 +13,12 @@
       "title": "Unemployment Rate",
       "impact": "High",
       "currency": "AUD"
+    },
+    {
+      "time": "2026-09-25T09:15:00+00:00",
+      "title": "BOE Gov Bailey Speaks",
+      "impact": "High",
+      "currency": "GBP"
     }
   ]
 }
