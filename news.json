@@ -1,19 +1,7 @@
 {
-  "updated_utc": "2026-09-23T23:59:20.806893+00:00",
+  "updated_utc": "2026-09-24T04:16:35.442770+00:00",
   "source": "forexfactory",
   "events": [
-    {
-      "time": "2026-09-24T01:30:00+00:00",
-      "title": "Employment Change",
-      "impact": "High",
-      "currency": "AUD"
-    },
-    {
-      "time": "2026-09-24T01:30:00+00:00",
-      "title": "Unemployment Rate",
-      "impact": "High",
-      "currency": "AUD"
-    },
     {
       "time": "2026-09-25T09:15:00+00:00",
       "title": "BOE Gov Bailey Speaks",
