@@ -1,5 +1,18 @@
 {
-  "updated_utc": "2026-09-27T01:40:40.662282+00:00",
+  "updated_utc": "2026-09-27T07:06:43.653452+00:00",
   "source": "forexfactory",
-  "events": []
+  "events": [
+    {
+      "time": "2026-09-29T04:30:00+00:00",
+      "title": "Cash Rate",
+      "impact": "High",
+      "currency": "AUD"
+    },
+    {
+      "time": "2026-09-29T04:30:00+00:00",
+      "title": "RBA Rate Statement",
+      "impact": "High",
+      "currency": "AUD"
+    }
+  ]
 }
