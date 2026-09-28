@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-27T23:19:01.722032+00:00",
+  "updated_utc": "2026-09-28T01:44:38.366526+00:00",
   "source": "forexfactory",
   "events": [
     {
@@ -13,6 +13,36 @@
       "title": "RBA Rate Statement",
       "impact": "High",
       "currency": "AUD"
+    },
+    {
+      "time": "2026-09-30T01:30:00+00:00",
+      "title": "CPI m/m",
+      "impact": "High",
+      "currency": "AUD"
+    },
+    {
+      "time": "2026-09-30T01:30:00+00:00",
+      "title": "CPI y/y",
+      "impact": "High",
+      "currency": "AUD"
+    },
+    {
+      "time": "2026-09-30T01:30:00+00:00",
+      "title": "Trimmed Mean CPI m/m",
+      "impact": "High",
+      "currency": "AUD"
+    },
+    {
+      "time": "2026-09-30T12:30:00+00:00",
+      "title": "Core PCE Price Index m/m",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-09-30T12:30:00+00:00",
+      "title": "Final GDP q/q",
+      "impact": "High",
+      "currency": "USD"
     }
   ]
 }
