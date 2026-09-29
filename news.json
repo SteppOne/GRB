@@ -1,19 +1,7 @@
 {
-  "updated_utc": "2026-09-29T01:17:10.016488+00:00",
+  "updated_utc": "2026-09-29T06:58:44.245797+00:00",
   "source": "forexfactory",
   "events": [
-    {
-      "time": "2026-09-29T04:30:00+00:00",
-      "title": "Cash Rate",
-      "impact": "High",
-      "currency": "AUD"
-    },
-    {
-      "time": "2026-09-29T04:30:00+00:00",
-      "title": "RBA Rate Statement",
-      "impact": "High",
-      "currency": "AUD"
-    },
     {
       "time": "2026-09-30T01:30:00+00:00",
       "title": "CPI m/m",
