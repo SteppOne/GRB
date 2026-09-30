@@ -1,19 +1,7 @@
 {
-  "updated_utc": "2026-09-30T08:15:47.361475+00:00",
+  "updated_utc": "2026-09-30T14:56:44.020057+00:00",
   "source": "forexfactory",
   "events": [
-    {
-      "time": "2026-09-30T12:30:00+00:00",
-      "title": "Core PCE Price Index m/m",
-      "impact": "High",
-      "currency": "USD"
-    },
-    {
-      "time": "2026-09-30T12:30:00+00:00",
-      "title": "Final GDP q/q",
-      "impact": "High",
-      "currency": "USD"
-    },
     {
       "time": "2026-10-02T12:30:00+00:00",
       "title": "Average Hourly Earnings m/m",
