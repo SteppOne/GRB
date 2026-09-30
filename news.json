@@ -1,25 +1,7 @@
 {
-  "updated_utc": "2026-09-29T22:58:58.745273+00:00",
+  "updated_utc": "2026-09-30T01:55:30.576409+00:00",
   "source": "forexfactory",
   "events": [
-    {
-      "time": "2026-09-30T01:30:00+00:00",
-      "title": "CPI m/m",
-      "impact": "High",
-      "currency": "AUD"
-    },
-    {
-      "time": "2026-09-30T01:30:00+00:00",
-      "title": "CPI y/y",
-      "impact": "High",
-      "currency": "AUD"
-    },
-    {
-      "time": "2026-09-30T01:30:00+00:00",
-      "title": "Trimmed Mean CPI m/m",
-      "impact": "High",
-      "currency": "AUD"
-    },
     {
       "time": "2026-09-30T12:30:00+00:00",
       "title": "Core PCE Price Index m/m",
@@ -29,6 +11,24 @@
     {
       "time": "2026-09-30T12:30:00+00:00",
       "title": "Final GDP q/q",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-10-02T12:30:00+00:00",
+      "title": "Average Hourly Earnings m/m",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-10-02T12:30:00+00:00",
+      "title": "Non-Farm Employment Change",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-10-02T12:30:00+00:00",
+      "title": "Unemployment Rate",
       "impact": "High",
       "currency": "USD"
     }
