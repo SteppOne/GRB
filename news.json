@@ -1,12 +1,5 @@
 {
-  "updated_utc": "2026-10-08T10:18:04.901618+00:00",
+  "updated_utc": "2026-10-08T17:25:23.626947+00:00",
   "source": "forexfactory",
-  "events": [
-    {
-      "time": "2026-10-08T12:15:00+00:00",
-      "title": "BOE Gov Bailey Speaks",
-      "impact": "High",
-      "currency": "GBP"
-    }
-  ]
+  "events": []
 }
