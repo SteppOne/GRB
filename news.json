@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-13T21:51:33.826084+00:00",
+  "updated_utc": "2026-10-14T01:02:09.945453+00:00",
   "source": "forexfactory",
   "events": [
     {
@@ -65,6 +65,18 @@
     {
       "time": "2026-10-15T12:30:00+00:00",
       "title": "Retail Sales m/m",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-10-16T02:00:00+00:00",
+      "title": "BOE Gov Bailey Speaks",
+      "impact": "High",
+      "currency": "GBP"
+    },
+    {
+      "time": "2026-10-16T03:30:00+00:00",
+      "title": "Fed Chairman Warsh Speaks",
       "impact": "High",
       "currency": "USD"
     }
