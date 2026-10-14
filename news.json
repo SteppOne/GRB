@@ -1,31 +1,7 @@
 {
-  "updated_utc": "2026-10-14T11:34:17.319797+00:00",
+  "updated_utc": "2026-10-14T15:56:24.188637+00:00",
   "source": "forexfactory",
   "events": [
-    {
-      "time": "2026-10-14T12:30:00+00:00",
-      "title": "Core CPI m/m",
-      "impact": "High",
-      "currency": "USD"
-    },
-    {
-      "time": "2026-10-14T12:30:00+00:00",
-      "title": "Core CPI y/y",
-      "impact": "High",
-      "currency": "USD"
-    },
-    {
-      "time": "2026-10-14T12:30:00+00:00",
-      "title": "CPI m/m",
-      "impact": "High",
-      "currency": "USD"
-    },
-    {
-      "time": "2026-10-14T12:30:00+00:00",
-      "title": "CPI y/y",
-      "impact": "High",
-      "currency": "USD"
-    },
     {
       "time": "2026-10-15T00:30:00+00:00",
       "title": "Employment Change",
