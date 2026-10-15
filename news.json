@@ -1,13 +1,7 @@
 {
-  "updated_utc": "2026-10-15T01:30:19.577913+00:00",
+  "updated_utc": "2026-10-15T06:18:44.141422+00:00",
   "source": "forexfactory",
   "events": [
-    {
-      "time": "2026-10-15T06:00:00+00:00",
-      "title": "GDP m/m",
-      "impact": "High",
-      "currency": "GBP"
-    },
     {
       "time": "2026-10-15T12:30:00+00:00",
       "title": "Core PPI m/m",
