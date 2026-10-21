@@ -1,12 +1,5 @@
 {
-  "updated_utc": "2026-10-21T04:29:34.354014+00:00",
+  "updated_utc": "2026-10-21T09:30:26.358927+00:00",
   "source": "forexfactory",
-  "events": [
-    {
-      "time": "2026-10-21T06:00:00+00:00",
-      "title": "CPI y/y",
-      "impact": "High",
-      "currency": "GBP"
-    }
-  ]
+  "events": []
 }
