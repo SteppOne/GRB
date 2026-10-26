@@ -1,5 +1,48 @@
 {
-  "updated_utc": "2026-10-25T23:36:32.850947+00:00",
+  "updated_utc": "2026-10-26T01:46:37.706291+00:00",
   "source": "forexfactory",
-  "events": []
+  "events": [
+    {
+      "time": "2026-10-28T00:30:00+00:00",
+      "title": "CPI m/m",
+      "impact": "High",
+      "currency": "AUD"
+    },
+    {
+      "time": "2026-10-28T00:30:00+00:00",
+      "title": "CPI y/y",
+      "impact": "High",
+      "currency": "AUD"
+    },
+    {
+      "time": "2026-10-28T00:30:00+00:00",
+      "title": "Trimmed Mean CPI m/m",
+      "impact": "High",
+      "currency": "AUD"
+    },
+    {
+      "time": "2026-10-28T12:30:00+00:00",
+      "title": "Annual Budget Release",
+      "impact": "High",
+      "currency": "GBP"
+    },
+    {
+      "time": "2026-10-28T18:00:00+00:00",
+      "title": "Federal Funds Rate",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-10-28T18:00:00+00:00",
+      "title": "FOMC Statement",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-10-28T18:30:00+00:00",
+      "title": "FOMC Press Conference",
+      "impact": "High",
+      "currency": "USD"
+    }
+  ]
 }
