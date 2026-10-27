@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-26T23:40:29.092732+00:00",
+  "updated_utc": "2026-10-27T02:26:27.858286+00:00",
   "source": "forexfactory",
   "events": [
     {
@@ -43,6 +43,36 @@
       "title": "FOMC Press Conference",
       "impact": "High",
       "currency": "USD"
+    },
+    {
+      "time": "2026-10-29T12:30:00+00:00",
+      "title": "Advance GDP q/q",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-10-29T12:30:00+00:00",
+      "title": "Core PCE Price Index m/m",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-10-29T13:15:00+00:00",
+      "title": "Main Refinancing Rate",
+      "impact": "High",
+      "currency": "EUR"
+    },
+    {
+      "time": "2026-10-29T13:15:00+00:00",
+      "title": "Monetary Policy Statement",
+      "impact": "High",
+      "currency": "EUR"
+    },
+    {
+      "time": "2026-10-29T13:45:00+00:00",
+      "title": "ECB Press Conference",
+      "impact": "High",
+      "currency": "EUR"
     }
   ]
 }
