@@ -1,25 +1,7 @@
 {
-  "updated_utc": "2026-10-28T15:28:50.226615+00:00",
+  "updated_utc": "2026-10-28T20:28:47.902831+00:00",
   "source": "forexfactory",
   "events": [
-    {
-      "time": "2026-10-28T18:00:00+00:00",
-      "title": "Federal Funds Rate",
-      "impact": "High",
-      "currency": "USD"
-    },
-    {
-      "time": "2026-10-28T18:00:00+00:00",
-      "title": "FOMC Statement",
-      "impact": "High",
-      "currency": "USD"
-    },
-    {
-      "time": "2026-10-28T18:30:00+00:00",
-      "title": "FOMC Press Conference",
-      "impact": "High",
-      "currency": "USD"
-    },
     {
       "time": "2026-10-29T12:30:00+00:00",
       "title": "Advance GDP q/q",
