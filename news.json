@@ -1,24 +1,5 @@
 {
-  "updated_utc": "2026-10-29T12:42:54.038436+00:00",
+  "updated_utc": "2026-10-29T18:39:17.647793+00:00",
   "source": "forexfactory",
-  "events": [
-    {
-      "time": "2026-10-29T13:15:00+00:00",
-      "title": "Main Refinancing Rate",
-      "impact": "High",
-      "currency": "EUR"
-    },
-    {
-      "time": "2026-10-29T13:15:00+00:00",
-      "title": "Monetary Policy Statement",
-      "impact": "High",
-      "currency": "EUR"
-    },
-    {
-      "time": "2026-10-29T13:45:00+00:00",
-      "title": "ECB Press Conference",
-      "impact": "High",
-      "currency": "EUR"
-    }
-  ]
+  "events": []
 }
