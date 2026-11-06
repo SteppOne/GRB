@@ -1,24 +1,5 @@
 {
-  "updated_utc": "2026-11-06T11:25:07.617903+00:00",
+  "updated_utc": "2026-11-06T18:17:32.503161+00:00",
   "source": "forexfactory",
-  "events": [
-    {
-      "time": "2026-11-06T13:30:00+00:00",
-      "title": "Average Hourly Earnings m/m",
-      "impact": "High",
-      "currency": "USD"
-    },
-    {
-      "time": "2026-11-06T13:30:00+00:00",
-      "title": "Non-Farm Employment Change",
-      "impact": "High",
-      "currency": "USD"
-    },
-    {
-      "time": "2026-11-06T13:30:00+00:00",
-      "title": "Unemployment Rate",
-      "impact": "High",
-      "currency": "USD"
-    }
-  ]
+  "events": []
 }
