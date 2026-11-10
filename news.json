@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-09T21:27:01.742185+00:00",
+  "updated_utc": "2026-11-10T03:44:17.830151+00:00",
   "source": "forexfactory",
   "events": [
     {
@@ -13,6 +13,12 @@
       "title": "CPI m/m",
       "impact": "High",
       "currency": "USD"
+    },
+    {
+      "time": "2026-11-12T07:00:00+00:00",
+      "title": "GDP m/m",
+      "impact": "High",
+      "currency": "GBP"
     }
   ]
 }
