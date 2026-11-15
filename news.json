@@ -1,5 +1,30 @@
 {
-  "updated_utc": "2026-11-15T01:04:32.682463+00:00",
+  "updated_utc": "2026-11-15T07:45:52.601494+00:00",
   "source": "forexfactory",
-  "events": []
+  "events": [
+    {
+      "time": "2026-11-16T17:00:00+00:00",
+      "title": "Fed Chairman Warsh Speaks",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-11-16T22:50:00+00:00",
+      "title": "RBA Gov Bullock Speaks",
+      "impact": "High",
+      "currency": "AUD"
+    },
+    {
+      "time": "2026-11-17T13:30:00+00:00",
+      "title": "Core Retail Sales m/m",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-11-17T13:30:00+00:00",
+      "title": "Retail Sales m/m",
+      "impact": "High",
+      "currency": "USD"
+    }
+  ]
 }
