@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-15T23:58:30.039960+00:00",
+  "updated_utc": "2026-11-16T05:53:41.822678+00:00",
   "source": "forexfactory",
   "events": [
     {
@@ -23,6 +23,24 @@
     {
       "time": "2026-11-17T13:30:00+00:00",
       "title": "Retail Sales m/m",
+      "impact": "High",
+      "currency": "USD"
+    },
+    {
+      "time": "2026-11-18T07:00:00+00:00",
+      "title": "CPI y/y",
+      "impact": "High",
+      "currency": "GBP"
+    },
+    {
+      "time": "2026-11-18T15:00:00+00:00",
+      "title": "BOE Gov Bailey Speaks",
+      "impact": "High",
+      "currency": "GBP"
+    },
+    {
+      "time": "2026-11-18T19:00:00+00:00",
+      "title": "FOMC Meeting Minutes",
       "impact": "High",
       "currency": "USD"
     }
