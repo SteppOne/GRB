@@ -1,19 +1,7 @@
 {
-  "updated_utc": "2026-11-18T12:19:23.416156+00:00",
+  "updated_utc": "2026-11-18T20:40:54.285246+00:00",
   "source": "forexfactory",
   "events": [
-    {
-      "time": "2026-11-18T15:00:00+00:00",
-      "title": "BOE Gov Bailey Speaks",
-      "impact": "High",
-      "currency": "GBP"
-    },
-    {
-      "time": "2026-11-18T19:00:00+00:00",
-      "title": "FOMC Meeting Minutes",
-      "impact": "High",
-      "currency": "USD"
-    },
     {
       "time": "2026-11-19T00:30:00+00:00",
       "title": "Employment Change",
